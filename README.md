@@ -14,6 +14,7 @@ O projeto utilizou a lib Streamlit do Python para uma visualização simples dos
    - Clone ou baixe o repositório para sua máquina local.
    - Confira se as libs estão instaladas, principalmente o Streamlit. Caso contrario, a instação é simples: !pip install streamlit
    - Para rodar a aplicação basta acessar o diretório do .py via CMD e executar o comando Streamlit run gemini_NT.py
+   - Uma forma simplificada é executando o .bat contendo a instrução de execução.
    
 2. **Funcionamento:**
    - O funcionamento é simples, bastando enviar uma Nota Técnicas no input especifico.
