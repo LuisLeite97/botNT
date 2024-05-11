@@ -1,0 +1,1 @@
+streamlite run gemini_NT.py
